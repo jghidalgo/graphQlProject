@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGODB_USER": "learning",
+        "MONGODB_PASSWORD": "5hOLhPFwcTE6tgum",
+        "MONGODB": "test"
+    }
+}
